@@ -1,0 +1,25 @@
+{
+  "name": "frontend-nanodegree-mobile-portfolio",
+  "version": "0.0.1",
+  "description": "Performance optimization project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ucaly/frontend-nanodegree-mobile-portfolio.git"
+  },
+  "author": "yukari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ucaly/frontend-nanodegree-mobile-portfolio/issues"
+  },
+  "homepage": "https://github.com/Ucaly/frontend-nanodegree-mobile-portfolio#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0"
+  }
+}
